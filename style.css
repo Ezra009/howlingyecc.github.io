@@ -20,6 +20,10 @@ body{
 	text-align: center;
     box-shadow: black;
 }
+.navbar a.active{
+	background-color: #C6976D;
+	
+}
 .btn{
 	padding: 16px;
 	font-size: 18px;
